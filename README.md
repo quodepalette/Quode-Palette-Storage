@@ -5,13 +5,13 @@ A fast disk space analyzer for Windows. It shows what is taking up room on your 
 [**Download the latest version**](../../releases/latest)
 
 <p align="center">
-  <img src="docs/Screenshot2.png" alt="Quode Palette Screenshot" width="100%">
+  <img src="docs/Screenshot1.png" alt="Quode Palette Screenshot" width="100%">
   <b>Screenshot I</b>
 </p>
 
 <table>
     <td width="50%" align="center">
-      <a href="docs/audio.png"><img src="docs/Screenshot1.png" alt="Screenshot" width="100%"></a>
+      <a href="docs/audio.png"><img src="docs/Screenshot2.png" alt="Screenshot" width="100%"></a>
       <br>
       <b>Screenshot II</b>
       <br>
@@ -24,7 +24,22 @@ A fast disk space analyzer for Windows. It shows what is taking up room on your 
       <br>
       <!-- <sub>Convert common video formats with FFmpeg</sub> -->
     </td>
-  
+</table>
+<table>
+    <td width="50%" align="center">
+      <a href="docs/audio.png"><img src="docs/Screenshot4.png" alt="Screenshot" width="100%"></a>
+      <br>
+      <b>Screenshot IV</b>
+      <br>
+      <!-- <sub>Convert common audio formats with FFmpeg</sub> -->
+    </td>
+    <td width="50%" align="center">
+      <a href="docs/Screenshot5.png"><img src="docs/Screenshot5.png" alt="Screenshot" width="100%"></a>
+      <br>
+      <b>Screenshot V</b>
+      <br>
+      <!-- <sub>Convert common video formats with FFmpeg</sub> -->
+    </td>
 </table>
 
 ## Why use it
