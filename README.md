@@ -11,14 +11,14 @@ Quode Palette Storage scans a drive and shows everything as a colorful map. Bigg
 
 <table>
     <td width="50%" align="center">
-      <a href="docs/audio.png"><img src="docs/Screenshot2.png" alt="Screenshot" width="100%"></a>
+      <a href="docs/Screenshot2.png"><img src="docs/Screenshot2.png" alt="Screenshot" width="100%"></a>
       <br>
       <b>Screenshot II</b>
       <br>
       <!-- <sub>Convert common audio formats with FFmpeg</sub> -->
     </td>
     <td width="50%" align="center">
-      <a href="docs/video.png"><img src="docs/Screenshot3.png" alt="Screenshot" width="100%"></a>
+      <a href=docs/Screenshot3.png"><img src="docs/Screenshot3.png" alt="Screenshot" width="100%"></a>
       <br>
       <b>Screenshot III</b>
       <br>
@@ -27,7 +27,7 @@ Quode Palette Storage scans a drive and shows everything as a colorful map. Bigg
 </table>
 <table>
     <td width="50%" align="center">
-      <a href="docs/audio.png"><img src="docs/Screenshot4.png" alt="Screenshot" width="100%"></a>
+      <a href=docs/Screenshot4.png"><img src="docs/Screenshot4.png" alt="Screenshot" width="100%"></a>
       <br>
       <b>Screenshot IV</b>
       <br>
