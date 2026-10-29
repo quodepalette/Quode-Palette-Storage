@@ -57,7 +57,6 @@ Open the [latest release](../../releases/latest) and pick one of the files under
 | File | What it is |
 | --- | --- |
 | Setup `.exe` | The installer. Recommended for most people. Installs for your user account and adds a Start Menu shortcut. |
-| `.msi` | The same app as a Windows Installer package, handy for managed PCs. |
 | Portable `.exe` | Just the app, no installation. Put it anywhere and run it. |
 
 **Requirements:** Windows 10 or 11, 64-bit. The app uses the WebView2 runtime that is already part of Windows 11 and current Windows 10. The installers download it for you if it is missing.
