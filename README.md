@@ -82,6 +82,5 @@ Grab the latest version from the [Releases](../../releases) page. Each release h
 
 ## License
 
-[PolyForm Noncommercial License 1.0.0](LICENSE)
-
-Copyright © Quode Palette
+Released under the [PolyForm Noncommercial License 1.0.0](LICENSE). You are free to use, modify and share it for personal, educational and other noncommercial purposes. For commercial use, please get in touch.
+[Email Us](mailto:hello@quodepalette.com)
