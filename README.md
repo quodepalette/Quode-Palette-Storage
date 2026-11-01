@@ -78,7 +78,7 @@ Grab the latest version from the [Releases](../../releases) page. Each release h
 ## Notes
 
 - The app only reads your drives and, when you ask it to, moves items to the Recycle Bin. It does not send any data anywhere.
-- The Montserrat fonts are under the SIL Open Font License (see `OFL.txt`).
+- The font is under the SIL Open Font License.
 
 ## License
 
